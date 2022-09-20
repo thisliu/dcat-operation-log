@@ -1,5 +1,5 @@
 {
-  "name": "weiaibaicai/dcat-operation-log",
+  "name": "thisliu/dcat-operation-log",
   "description": "Dcat Admin 操作日志扩展",
   "type": "library",
   "keywords": ["dcat-admin", "extension"],
@@ -12,7 +12,7 @@
     }
   ],
   "require": {
-        "php": ">=7.4.0",
+        "php": ">=7.3.0",
         "dcat/laravel-admin": "~2.0"
   },
   "autoload": {

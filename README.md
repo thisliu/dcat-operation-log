@@ -1,7 +1,7 @@
 # Dcat Admin Extension  管理员操作日志扩展
 
 ## 依赖
-- php  | >= 7.4.0
+- php  | >= 7.3.0
 - dcat/laravel-admin  | >= ~2.0
 
 
@@ -10,7 +10,7 @@
 ### composer 安装
 
 ```
-composer require weiaibaicai/dcat-operation-log
+composer require thisliu/dcat-operation-log
 ```
 
 ### 启用插件
